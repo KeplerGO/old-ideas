@@ -1,10 +1,10 @@
-**Description:**
+##### Description
 
-Your description of the idea at a level that can be broadly understood by a broad but advanced audience.  
-.  
-.  
-.  
-.  
+Your description of the idea at a level that can be broadly understood by a broad but advanced audience.
+.
+.
+.
+.
 
 
 ##### Benefits
@@ -13,4 +13,4 @@ A list or description of direct and indirect benefits if the idea was carried ou
 
 ##### Costs
 *Optional:*
-A list or description of direct and indirect costs of accomplishing the idea.  
+A list or description of direct and indirect costs of accomplishing the idea.
